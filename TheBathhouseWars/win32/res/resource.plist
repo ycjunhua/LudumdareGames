@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>evil000.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 7}, {86, 276}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 5}</string>
+			<key>spriteSize</key>
+			<string>{86, 276}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{612, 0}, {88, 278}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil001.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 11}, {104, 276}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{104, 276}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{404, 290}, {106, 278}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil002.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 8}, {98, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{0, 2}</string>
+			<key>spriteSize</key>
+			<string>{98, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{194, 290}, {100, 282}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil003.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{3, 3}, {84, 278}}</string>
+			<key>spriteOffset</key>
+			<string>{-8, 8}</string>
+			<key>spriteSize</key>
+			<string>{84, 278}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{434, 0}, {86, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil004.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{4, 7}, {86, 276}}</string>
+			<key>spriteOffset</key>
+			<string>{-6, 5}</string>
+			<key>spriteSize</key>
+			<string>{86, 276}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{522, 0}, {88, 278}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil005.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 11}, {104, 276}}</string>
+			<key>spriteOffset</key>
+			<string>{-1, 1}</string>
+			<key>spriteSize</key>
+			<string>{104, 276}</string>
+			<key>spriteSourceSize</key>
+			<string>{106, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{296, 290}, {106, 278}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil010.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{21, 23}, {130, 264}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -5}</string>
+			<key>spriteSize</key>
+			<string>{130, 264}</string>
+			<key>spriteSourceSize</key>
+			<string>{176, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{134, 574}, {132, 266}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil011.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 49}, {130, 238}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -18}</string>
+			<key>spriteSize</key>
+			<string>{130, 238}</string>
+			<key>spriteSourceSize</key>
+			<string>{176, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{268, 574}, {132, 240}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil012.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 71}, {132, 218}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -30}</string>
+			<key>spriteSize</key>
+			<string>{132, 218}</string>
+			<key>spriteSourceSize</key>
+			<string>{176, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{538, 574}, {134, 220}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil013.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 21}, {142, 270}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -6}</string>
+			<key>spriteSize</key>
+			<string>{142, 270}</string>
+			<key>spriteSourceSize</key>
+			<string>{176, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{674, 574}, {144, 272}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil014.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 71}, {132, 218}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -30}</string>
+			<key>spriteSize</key>
+			<string>{132, 218}</string>
+			<key>spriteSourceSize</key>
+			<string>{176, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{402, 574}, {134, 220}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil015.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{19, 49}, {130, 238}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -18}</string>
+			<key>spriteSize</key>
+			<string>{130, 238}</string>
+			<key>spriteSourceSize</key>
+			<string>{176, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 574}, {132, 240}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil020.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 81}, {216, 143}}</string>
+			<key>spriteOffset</key>
+			<string>{-36, -26}</string>
+			<key>spriteSize</key>
+			<string>{216, 143}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 253}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{420, 848}, {218, 145}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil021.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 35}, {222, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{222, 197}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 253}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{640, 848}, {224, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil022.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 10}, {238, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 5}</string>
+			<key>spriteSize</key>
+			<string>{238, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 253}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{708, 1093}, {240, 225}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil023.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 22}, {236, 219}}</string>
+			<key>spriteOffset</key>
+			<string>{5, -5}</string>
+			<key>spriteSize</key>
+			<string>{236, 219}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 253}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{226, 1093}, {238, 221}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 10}, {238, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{6, 5}</string>
+			<key>spriteSize</key>
+			<string>{238, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 253}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{466, 1093}, {240, 225}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{37, 35}, {222, 197}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -7}</string>
+			<key>spriteSize</key>
+			<string>{222, 197}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 253}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1093}, {224, 199}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{30, 15}, {190, 241}}</string>
+			<key>spriteOffset</key>
+			<string>{-25, 3}</string>
+			<key>spriteSize</key>
+			<string>{190, 241}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{820, 574}, {192, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil031.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 27}, {206, 241}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -9}</string>
+			<key>spriteSize</key>
+			<string>{206, 241}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 848}, {208, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil032.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 39}, {254, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -12}</string>
+			<key>spriteSize</key>
+			<string>{254, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{258, 1320}, {256, 225}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil033.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 27}, {282, 233}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{282, 233}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1701}, {284, 235}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil034.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{10, 39}, {254, 223}}</string>
+			<key>spriteOffset</key>
+			<string>{-13, -12}</string>
+			<key>spriteSize</key>
+			<string>{254, 223}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1320}, {256, 225}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil035.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{17, 27}, {206, 241}}</string>
+			<key>spriteOffset</key>
+			<string>{-30, -9}</string>
+			<key>spriteSize</key>
+			<string>{206, 241}</string>
+			<key>spriteSourceSize</key>
+			<string>{300, 277}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{210, 848}, {208, 243}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 9}, {87, 286}}</string>
+			<key>spriteOffset</key>
+			<string>{2, -2}</string>
+			<key>spriteSize</key>
+			<string>{87, 286}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{793, 0}, {89, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 8}, {83, 286}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{83, 286}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{172, 0}, {85, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{7, 11}, {87, 282}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -2}</string>
+			<key>spriteSize</key>
+			<string>{87, 282}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{702, 0}, {89, 284}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{11, 8}, {83, 286}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -1}</string>
+			<key>spriteSize</key>
+			<string>{83, 286}</string>
+			<key>spriteSourceSize</key>
+			<string>{105, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{347, 0}, {85, 288}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{42, 1}, {82, 276}}</string>
+			<key>spriteOffset</key>
+			<string>{4, 11}</string>
+			<key>spriteSize</key>
+			<string>{82, 276}</string>
+			<key>spriteSourceSize</key>
+			<string>{158, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {82, 276}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil051.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 12}, {86, 262}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 7}</string>
+			<key>spriteSize</key>
+			<string>{86, 262}</string>
+			<key>spriteSourceSize</key>
+			<string>{158, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{84, 0}, {86, 262}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil052.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{38, 12}, {86, 262}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 7}</string>
+			<key>spriteSize</key>
+			<string>{86, 262}</string>
+			<key>spriteSourceSize</key>
+			<string>{158, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{259, 0}, {86, 262}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{23, 17}, {116, 256}}</string>
+			<key>spriteOffset</key>
+			<string>{2, 5}</string>
+			<key>spriteSize</key>
+			<string>{116, 256}</string>
+			<key>spriteSourceSize</key>
+			<string>{158, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{627, 290}, {116, 256}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{20, 18}, {120, 252}}</string>
+			<key>spriteOffset</key>
+			<string>{1, 6}</string>
+			<key>spriteSize</key>
+			<string>{120, 252}</string>
+			<key>spriteSourceSize</key>
+			<string>{158, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{745, 290}, {120, 252}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>evil055.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{13, 44}, {126, 228}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -8}</string>
+			<key>spriteSize</key>
+			<string>{126, 228}</string>
+			<key>spriteSourceSize</key>
+			<string>{158, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{867, 290}, {126, 228}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>hand.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{0, 0}, {272, 379}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -0}</string>
+			<key>spriteSize</key>
+			<string>{272, 379}</string>
+			<key>spriteSourceSize</key>
+			<string>{272, 379}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{516, 1320}, {272, 379}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>soap.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{6, 10}, {113, 83}}</string>
+			<key>spriteOffset</key>
+			<string>{0, -5}</string>
+			<key>spriteSize</key>
+			<string>{113, 83}</string>
+			<key>spriteSourceSize</key>
+			<string>{125, 93}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{512, 290}, {113, 83}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>water0.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 18}, {92, 282}}</string>
+			<key>spriteOffset</key>
+			<string>{-4, -9}</string>
+			<key>spriteSize</key>
+			<string>{92, 282}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{884, 0}, {92, 282}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>water1.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 18}, {94, 282}}</string>
+			<key>spriteOffset</key>
+			<string>{-3, -9}</string>
+			<key>spriteSize</key>
+			<string>{94, 282}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 290}, {94, 282}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>water2.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{9, 20}, {96, 280}}</string>
+			<key>spriteOffset</key>
+			<string>{-2, -10}</string>
+			<key>spriteSize</key>
+			<string>{96, 280}</string>
+			<key>spriteSourceSize</key>
+			<string>{118, 300}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{96, 290}, {96, 280}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.2</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{1024, 2048}</string>
+		<key>name</key>
+		<string>Untitled</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>default</string>
+			<key>textureFileName</key>
+			<string>resource</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>resource</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>
